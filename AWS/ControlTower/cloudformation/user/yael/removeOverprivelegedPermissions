@@ -112,7 +112,6 @@ Resources:
                   - redshift:Describe*
                   - redshift:List*
                   - redshift-serverless:List*
-                  - redshift-serverless:Get*
                   - route53:Get*
                   - route53:List*
                   - route53domains:Get*
